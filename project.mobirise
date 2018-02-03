@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "AYoung Interior Design 1",
-    "currentPage": "About.html",
+    "name": "AYoung Interior Design",
+    "currentPage": "Portfolio.html",
     "theme": {
       "name": "portfoliom4",
       "title": "PortfolioM4",
@@ -598,7 +598,7 @@
               "margin-right": "auto"
             },
             "H1": {
-              "color": "#2d1504"
+              "color": "#efd9bc"
             },
             "B": {
               "color": "#efd9bc"
@@ -1352,7 +1352,7 @@
               "margin-right": "auto"
             },
             "H1": {
-              "color": "#2d1504"
+              "color": "#efd9bc"
             },
             "B": {
               "color": "#efd9bc"
@@ -2809,7 +2809,7 @@
               "margin-right": "auto"
             },
             "H1": {
-              "color": "#2d1504"
+              "color": "#efd9bc"
             },
             "B": {
               "color": "#ecd6ba"
